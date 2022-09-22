@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    font-family: Helvetica;
+    font-size: 0.8rem ;
+     
+}
+
+p{
+    margin-top: -10px;
+}
+
+article{
+    display: block;
+}
+
+.bloco{
+    margin: 20px 20px 20px 40px;
+    padding: 10px;
+    width: 300px;
+    border-radius: 20px;
+    color: black;
+    text-align: center;
+}
+
+#bloco-1{
+    background-color:orange;
+    border: solid orangered;
+}
+
+#bloco-2{
+    background-color: cyan;
+    border: solid lightcyan;
+}
+
+#bloco-3{
+    background-color: green;
+    border: dashed lightgreen 5px;
+}
+
+#bloco-4{
+    background-color: red;
+    border: dashed darkred 5px;
+}
